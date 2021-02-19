@@ -3,13 +3,8 @@ Monte Carlo Simulation of a Random Walk
 
 
 The game starts with X dollars in the user posession.
-  | X amount
---- | --- 
- 1| $10
- 2| $100
- 3| $1000
  
- | Number        |X amount           
+| Number        |X amount           
 | ------------- |-----:|
 | 1      | $10 |
 | 2      |  $100     |
@@ -20,12 +15,13 @@ The game starts with X dollars in the user posession.
  he started with (X+100).
  
  To determine if the user gets an additional dollar or loses a dollar, the probability of winning Y is used.
+
  
-   | Y probability
---- | --- 
- 1| 0.40
- 2| 18/37 (roulette odds)
- 3| 0.50
+| Number        |Y probability           
+| ------------- |-----:|
+| 1      | 0.40 |
+| 2      | 18/37 (roulette odds) |
+| 3      | 0.50 |
  
  
  There are 9 combinations of starting amount of money and the porbability. 
