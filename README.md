@@ -9,6 +9,12 @@ The game starts with X dollars in the user posession.
  2| $100
  3| $1000
  
+ | Number        |X amount           
+| ------------- |-----:|
+| 1      | $10 |
+| 2      |  $100     |
+| 3 |    $1000 |
+ 
  The original number of runs of each game is 50. this number also depends on the amount of money the user has at the end of each run. 
  The user is allowed to play the next run until he loses all the money or until he wins 100 in addition to the amount of money
  he started with (X+100).
