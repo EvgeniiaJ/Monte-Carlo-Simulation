@@ -1,0 +1,129 @@
+			MONTE CARLO SIMULATION
+
+
+		  ==========================
+		  = Running Combination #1 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $10 	Chance of Winning: 0.4
+Processed Rounds: 36 out of 50
+Successful Rounds: 13		Failed Rounds: 23
+
+Final Amount of money: 0	 --------------->	Bunkrupt 
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #2 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $10 	Chance of Winning: 0.49
+Processed Rounds: 50 out of 50
+Successful Rounds: 26		Failed Rounds: 24
+
+Final Amount of money: 12	 --------------->	Money Surplus: 2
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #3 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $10 	Chance of Winning: 0.5
+Processed Rounds: 50 out of 50
+Successful Rounds: 25		Failed Rounds: 25
+
+Final Amount of money: 10	 --------------->	Not Bunkrupt but lost $0
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #4 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $100 	Chance of Winning: 0.4
+Processed Rounds: 50 out of 50
+Successful Rounds: 18		Failed Rounds: 32
+
+Final Amount of money: 86	 --------------->	Not Bunkrupt but lost $14
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #5 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $100 	Chance of Winning: 0.49
+Processed Rounds: 50 out of 50
+Successful Rounds: 22		Failed Rounds: 28
+
+Final Amount of money: 94	 --------------->	Not Bunkrupt but lost $6
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #6 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $100 	Chance of Winning: 0.5
+Processed Rounds: 50 out of 50
+Successful Rounds: 31		Failed Rounds: 19
+
+Final Amount of money: 112	 --------------->	Money Surplus: 12
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #7 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $1000 	Chance of Winning: 0.4
+Processed Rounds: 50 out of 50
+Successful Rounds: 23		Failed Rounds: 27
+
+Final Amount of money: 996	 --------------->	Not Bunkrupt but lost $4
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #8 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $1000 	Chance of Winning: 0.49
+Processed Rounds: 50 out of 50
+Successful Rounds: 20		Failed Rounds: 30
+
+Final Amount of money: 990	 --------------->	Not Bunkrupt but lost $10
+
+==============================================================================
+
+		  ==========================
+		  = Running Combination #9 =
+		  ==========================
+
+	Simulation Results:
+
+Starting Amount: $1000 	Chance of Winning: 0.5
+Processed Rounds: 50 out of 50
+Successful Rounds: 26		Failed Rounds: 24
+
+Final Amount of money: 1002	 --------------->	Money Surplus: 2
+
+==============================================================================
+
